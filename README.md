@@ -28,7 +28,7 @@ As requested by the editor, this review focuses on the code associated with this
 The code is publicly available on GitHub, making it easy for users to access and download.
 
 2. **Documentation**  
-The repository includes a README and a separate manual [Kraken 2 Manual (Direct Link)](https://github.com/DerrickWood/kraken2/blob/master/docs/MANUAL.html). While the manual is detailed, important instructions are not centralized, which may make it harder for new users to follow the workflow.
+The repository includes a README and a separate manual [Kraken 2 Manual ](https://github.com/DerrickWood/kraken2/blob/master/docs/MANUAL.html). While the manual is detailed, important instructions are not centralized, which may make it harder for new users to follow the workflow.
 
 3. **Installation and Usability**  
 Installation requires running a shell script and compiling source code, which may be challenging for users without experience in command-line environments. The process assumes familiarity with environment variables and system configuration.

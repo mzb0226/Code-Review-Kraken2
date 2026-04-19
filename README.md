@@ -22,7 +22,7 @@ As requested by the editor, this review focuses on the code associated with this
 
 ---
 
-## High-Level Comments
+## General Comments
 
 1. **Accessibility of Code**  
 The code is publicly available on GitHub, making it easy for users to access and download.

@@ -3,7 +3,7 @@
 
 ## Paper
 
-Wood, D. E., Lu, J., & Langmead, B. (2019). Kraken 2: ultrafast metagenomic sequence classification using exact alignments.
+Wood, D. E., Lu, J., & Langmead, B. (2019). Improved metagenomic analysis with Kraken 2
 
 Paper link:
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1891-0

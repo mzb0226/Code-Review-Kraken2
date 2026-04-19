@@ -8,6 +8,12 @@ Wood, D. E., Lu, J., & Langmead, B. (2019). Improved metagenomic analysis with K
 Paper link:
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1891-0
 
+## Protocol Paper
+Lu, J., Rincon, N., Wood, D. E., Breitwieser, F. P., Pockrandt, C., Langmead, B., & Salzberg, S. L. (2022). *Metagenome analysis using the Kraken software suite.*
+
+Protocol link:  
+https://www.nature.com/articles/s41596-022-00738-y
+
 ## Code
 
 https://github.com/DerrickWood/kraken2

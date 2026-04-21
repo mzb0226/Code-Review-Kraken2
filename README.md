@@ -24,7 +24,7 @@ I selected this paper because it presents Kraken 2, a widely used tool for metag
 ## Summary of the Paper
 Wood, Lu, and Langmead (2019) introduce Kraken 2, an improved metagenomic classification tool designed to provide faster classification with reduced memory requirements compared to earlier versions. The software classifies DNA sequences by matching k-mers to a reference database and is widely used in microbiome research. This paper describes improvements such as reduced database size and enhanced computational efficiency, while a later protocol paper provides step-by-step guidance for practical implementation.
 
-As requested by the editor, this review focuses on the code associated with this manuscript and its usability and reproducibility.
+This review focuses on the code associated with this manuscript and its usability and reproducibility.
 
 ---
 
